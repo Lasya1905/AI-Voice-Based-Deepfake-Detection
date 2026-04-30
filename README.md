@@ -24,25 +24,25 @@ Audio → MFCC Extraction → CNN → Classification
 
 ## 📁 Project Structure
 
-voice-deepfake-detection/
-│
-├── app/
-│ └── app.py
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── splits/
-│
-├── models/
-│
-├── src/
-│ ├── feature_extraction.py
-│ ├── dataset.py
-│ ├── model.py
-│ ├── train.py
-│ ├── evaluate.py
-│ └── predict.py
-│
-├── .gitignore
-└── README.md
+voice-deepfake-detection/ <br>
+│<br>
+├── app/<br>
+│ └── app.py<br>
+│<br>
+├── data/<br>
+│ ├── raw/<br>
+│ ├── processed/<br>
+│ └── splits/<br>
+│<br>
+├── models/<br>
+│<br>
+├── src/<br>
+│ ├── feature_extraction.py<br>
+│ ├── dataset.py<br>
+│ ├── model.py<br>
+│ ├── train.py<br>
+│ ├── evaluate.py<br>
+│ └── predict.py<br>
+│<br>
+├── .gitignore<br>
+└── README.md<br>
